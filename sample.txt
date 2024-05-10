@@ -1,1 +1,2 @@
 This is the first commit line.
+Second line awesome.
